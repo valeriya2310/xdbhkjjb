@@ -1,0 +1,269 @@
+body {
+    font-family: 'Roboto',sans-serif;
+    background: #fefefe;
+    
+}
+
+ul {
+    list-style: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-left: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+   margin-top: 0;
+   margin-bottom: 0;
+}
+a {
+    text-decoration: none;
+}
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+button {
+    cursor: pointer;
+}
+.container {
+    width: 320px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 0 auto;
+}
+
+/*-------------------------------- header --------------------------------------------*/
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.container {
+}
+.header-container {
+}
+.navige {
+}
+.header-logo {
+}
+.header-list-item {
+}
+.header-list {
+}
+.header-item {
+}
+.header-menu-link {
+}
+.header-btn {
+}
+
+/*
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 0 4px 24px 0 rgba(105, 105, 105, 0.1);
+    background: #fefefe;
+}
+.navige {
+    display: flex;
+    
+}
+.header-container {
+   display: flex;
+   align-items: center;
+  
+   
+}
+.header-logo {
+   
+}
+.active {
+font-weight: 700;
+font-size: 14px;
+text-decoration: underline;
+text-decoration-skip-ink: none;
+color: #bbf330;
+
+
+}
+.header-list-item {
+
+}
+.header-list {
+    display: flex;
+    gap: 28px;
+    
+     
+    
+    
+    
+    
+    
+}
+.header-item {
+    display: flex;
+    align-items: center;
+    
+    
+    
+
+}
+.header-menu-link {
+    font-weight: 400;
+    font-size: 14px;
+    color: #2c2c2c;
+    position: relative;
+    
+    
+}
+.header-btn {
+    border-radius: 30px;
+    padding: 6px 17px;
+    min-width: 98px;
+    height: 32px;
+    background: #bbf330;
+    cursor: pointer;
+    display: block;
+    margin: 0 auto;
+
+
+}
+
+/*------------------------------- hiro ----------------------------------------*/
+/*
+.hiro {
+    padding-top: 214px;
+    padding-bottom: 236px;
+}
+.container-wraper {
+    max-width: 1248px;
+    
+    
+    
+}
+.hiro-title {
+font-weight: 700;
+font-size: 48px;
+line-height: 1.2;
+color: #2c2c2c;
+max-width: 502.42px;
+margin-bottom: 28px;
+}
+.hiro-item-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: #2c2c2c;
+max-width: 511px;
+margin-bottom: 27px;
+}
+.hiro-btn {
+    border-radius: 30px;
+    padding: 6px 17px;
+    min-width: 98px;
+    height: 32px;
+    background: #bbf330;
+    cursor: pointer;
+    display: block;
+    
+    
+}
+.img {
+    border-radius: 291px;
+   
+    width: 528px;
+    height: 528px;
+    background: url("path_to_image");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+    
+    
+    
+}
+.hiro-img {
+   position: absolute;
+   right: 0;
+   
+}
+*/
+
+/*-------------------------------- about ----------------------------------------*/
+/*
+.about {
+    padding-top: 114px;
+    padding-bottom: 123px;
+    background: #ffe550; 
+}
+.about-ineer {
+    display: flex;
+    
+}
+.about-text {
+    /*display: block;
+    margin-left: 90px;
+} 
+.about-subtitle-text {
+    
+}
+.about-title {
+    
+font-weight: 700;
+font-size: 42px;
+line-height: 1.2;
+color: #2c2c2c;
+max-width: 526.17px;
+margin-bottom: 20px;
+
+    
+}
+.about-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+color: #2c2c2c;
+width: 526.17px;
+margin-bottom: 40px;
+
+}
+.about-list {
+    display: flex;
+    gap: 24px;
+}
+.about-item {
+    gap: 24px;
+}
+.about-icon {
+    margin-bottom: 8px;
+    background-color:white;
+    fill: #7eb101;
+    width: 48px;
+    height: 48px;
+    border-radius: 48px;
+
+}
+.about-subtitle {
+    margin-bottom: 16px;
+    
+    
+}
+.about-textt {
+   width: 253px;
+   margin-bottom: 31px;
+}
+.about-btn {
+    border-radius: 30px;
+    padding: 6px 17px;
+    min-width: 98px;
+    height: 32px;
+    background: #fff;;
+    cursor: pointer;
+    display: block;
+}*/
